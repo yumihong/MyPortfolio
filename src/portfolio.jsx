@@ -9,7 +9,7 @@ const Portfolio = () => {
     return (
         <>
             <div className={styles.section1}>
-                <img className={styles.myPhoto} src={myPhoto} />
+                <img className={styles.myPhoto} src={myPhoto} alt="photo"/>
                 <div className={styles.intro}>
                     <h1>안녕하세요. <br/>밝고 꼼꼼한 성격을 가진<br />프론트엔드 개발자 홍유미입니다. <br /></h1>
                 </div>

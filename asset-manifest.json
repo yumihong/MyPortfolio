@@ -1,17 +1,16 @@
 {
   "files": {
-    "main.css": "/portfolio-yumi/static/css/main.5c6dc11a.css",
-    "main.js": "/portfolio-yumi/static/js/main.d9742898.js",
+    "main.css": "/portfolio-yumi/static/css/main.a3585668.css",
+    "main.js": "/portfolio-yumi/static/js/main.183fd98d.js",
     "static/js/787.1ed0c42c.chunk.js": "/portfolio-yumi/static/js/787.1ed0c42c.chunk.js",
     "static/media/myPhoto.jpg": "/portfolio-yumi/static/media/myPhoto.5c5164853b11516754b1.jpg",
-    "static/media/logo.svg": "/portfolio-yumi/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/portfolio-yumi/index.html",
-    "main.5c6dc11a.css.map": "/portfolio-yumi/static/css/main.5c6dc11a.css.map",
-    "main.d9742898.js.map": "/portfolio-yumi/static/js/main.d9742898.js.map",
+    "main.a3585668.css.map": "/portfolio-yumi/static/css/main.a3585668.css.map",
+    "main.183fd98d.js.map": "/portfolio-yumi/static/js/main.183fd98d.js.map",
     "787.1ed0c42c.chunk.js.map": "/portfolio-yumi/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5c6dc11a.css",
-    "static/js/main.d9742898.js"
+    "static/css/main.a3585668.css",
+    "static/js/main.183fd98d.js"
   ]
 }

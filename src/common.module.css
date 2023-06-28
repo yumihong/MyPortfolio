@@ -1,0 +1,39 @@
+/*기본설정*/
+* {
+    margin: 0;
+    padding: 0;
+}
+p{
+    display: inline-block;
+    font-size: 22px;
+}
+/*폰트크기*/
+.fs30{
+    font-size: 30px;
+}
+
+body{
+    max-width: 800px;
+    margin: 0 auto !important;
+    font-family: "IM_Hyemin-Bold" !important;
+}
+
+.section1{ padding: 100px 0; }
+.section1 .myPhoto{ border-radius: 17%; width: 157px; }
+.section1 .intro{ display: inline-block; vertical-align: top; margin-left: 50px; }
+.section1 .intro h1{ line-height: 60px; }
+
+.section2 h1{line-height: 60px;}
+.section2 ul{ margin-top: 30px; }
+.section2 ul li{ margin-bottom: 15px; list-style: none;}
+.section2 ul li:last-child{ margin-bottom: 100px; }
+.section2 ul li p{ margin-left: 10px; vertical-align: top; }
+
+.section3 h1{line-height: 60px;}
+.section3 .cardWrapper { padding: 30px; background: #ececec; }
+
+.section4{ padding: 100px 0; }
+.section4 h1{line-height: 60px;}
+.section4 ul li{list-style: inside; font-size: 21px; text-indent: -29px; padding-left: 25px;}
+.section4 .projectWrap div{margin-bottom: 50px; position: relative;}
+.section4 .projectWrap .firstProject, .section4 .projectWrap .secondProject{position: absolute; top: 0; right: 0;}
